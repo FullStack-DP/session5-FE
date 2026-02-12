@@ -25,7 +25,7 @@ git push
 ### Iteration 1: Backend Setup
 
 1. **Clone Starter Code**
-   - Clone the repository from [https://github.com/tx00-resources-en/week5-fepp-starter](https://github.com/tx00-resources-en/week5-fepp-starter). Please delete the **.git** directory, but DO NOT delete the **.github** directory.
+   - Clone the repository and delete the **.git** directory, Please DO NOT delete the **.github** directory.
    - Navigate to the backend folder:
      ```bash
      git clone https://github.com/tx00-resources-en/week5-fepp-starter week5-fepp-l5
@@ -278,7 +278,7 @@ git push
 
 ### **Iteration 7**  
 
-In this optional iteration, you will enhance the functionality of your React application by integrating it with specialized backend endpoints. These endpoints enable the app to fetch or manipulate data dynamically.  
+In this iteration, you will enhance the functionality of your React application by integrating it with specialized backend endpoints. These endpoints enable the app to fetch or manipulate data dynamically.  
 
 **Available Endpoints**  
 The following backend endpoints are already implemented and ready for use:
