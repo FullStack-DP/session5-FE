@@ -55,9 +55,9 @@ We'll follow a 5-step learning cycle as shown in the figure below:
   - [Summary](./material/fe-summary.md)
   - [Activity 1: React JWT Authentication](./material/fe-activity1.md)
   - [Activity 2: Custom hooks](./material/fe-activity2.md)
-- Here are some recommended activities to help you prepare for the exam. It’s highly recommended to work through these during the break so you feel confident with the material. 
-  - [Backend](https://github.com/tx00-resources-en/w5-exam-practice-backend)
-  - [Frontend](https://github.com/tx00-resources-en/w5-exam-practice-frontend)  
+- Here are some recommended activities for a comprehensive review of what we’ve covered so far. I highly encourage you to work through them during the break so you feel confident with the material.
+  - [Backend](https://github.com/tx00-resources-en/w7-exam-practice-backend)
+  - [Frontend](https://github.com/tx00-resources-en/w7-exam-practice-frontend)  
 - Misc.
   - [Project Ideas](./material/project-ideas.md)
   - React crash course: [Video](https://www.youtube.com/watch?v=LDB4uaJ87e0), [src](https://github.com/bradtraversy/react-crash-2024)
