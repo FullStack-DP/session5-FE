@@ -54,14 +54,14 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 - We will write the logic that enables users to sign up and securely log into React application.
   - [Activity 1: React JWT Authentication](./material/fe-activity1.md)
   - [Activity 2: FullStack App](https://github.com/tx00-resources-en/book-app)
-- Here are some recommended activities for a comprehensive review of what we’ve covered so far. I highly encourage you to work through them during the break so you feel confident with the material.
-  - [Backend](https://github.com/tx00-resources-en/w7-exam-practice-backend)
-  - [Frontend](https://github.com/tx00-resources-en/w7-exam-practice-frontend)  
 - Misc.
   - [Project Ideas](./material/project-ideas.md)
   - React crash course: [Video](https://www.youtube.com/watch?v=LDB4uaJ87e0), [src](https://github.com/bradtraversy/react-crash-2024)
   - At the end of week 5, I recommend reviewing the following [material](./material/review.md) (ideally over the weekend) to reinforce what we have covered in frontend and backend.
   - [Student’s Contribution to Industry 5.0](./material/industry50.md)
+  - Here are some recommended activities for a comprehensive review of what we’ve covered so far. I highly encourage you to work through them during the break so you feel confident with the material.
+    - [Backend](https://github.com/tx00-resources-en/w7-exam-practice-backend)
+    - [Frontend](https://github.com/tx00-resources-en/w7-exam-practice-frontend)  
 - ~~Draw.io~~
 
 
