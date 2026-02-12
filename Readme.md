@@ -52,9 +52,8 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 ### Afternoon
 
 - We will write the logic that enables users to sign up and securely log into React application.
-  - [Summary](./material/fe-summary.md)
   - [Activity 1: React JWT Authentication](./material/fe-activity1.md)
-  - [Activity 2: Custom hooks](./material/fe-activity2.md)
+  - [Activity 2: FullStack App](https://github.com/tx00-resources-en/book-app)
 - Here are some recommended activities for a comprehensive review of what we’ve covered so far. I highly encourage you to work through them during the break so you feel confident with the material.
   - [Backend](https://github.com/tx00-resources-en/w7-exam-practice-backend)
   - [Frontend](https://github.com/tx00-resources-en/w7-exam-practice-frontend)  
