@@ -35,7 +35,6 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 ### Topics
 
 - React JWT Authentication
-- Custom hooks
 
 <!-- - [Screenshots](./material/Screenshots.md) -->
 
@@ -51,7 +50,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 ### Afternoon
 
-- This week, we'll start by exploring **Custom Hooks** and how to use **Local Storage** in React. Custom Hooks are a powerful way to encapsulate reusable logic, making our components cleaner and more modular. With Local Storage, we can persist user data directly in the browser, even after a page refresh. Once we've covered these topics, we'll put them into practice by building a React app that connects to an API server for authentication. This will involve creating **login** and **registration** forms, enabling users to sign up and securely log into the application.
+- We will write the logic that enables users to sign up and securely log into React application.
   - [Summary](./material/fe-summary.md)
   - [Activity 1: React JWT Authentication](./material/fe-activity1.md)
   - [Activity 2: Custom hooks](./material/fe-activity2.md)
