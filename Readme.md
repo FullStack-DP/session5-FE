@@ -35,6 +35,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 ### Topics
 
 - React JWT Authentication
+- Mini Project
 
 <!-- - [Screenshots](./material/Screenshots.md) -->
 
