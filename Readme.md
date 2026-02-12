@@ -82,7 +82,6 @@ We'll follow a 5-step learning cycle as shown in the figure below:
   - [Hooks behind the scene](https://medium.com/flatiron-labs/breaking-the-rules-of-react-hooks-9e892636641e)
   - Book: [Designing React Hooks the Right Way](https://metropolia.finna.fi/Record/nelli15.5500000000157994?sid=3444690400)
   - [Another Example](https://swr.vercel.app/) from [NextJS](https://nextjs.org/)
-- [React Custom Hooks](https://www.w3schools.com/react/react_customhooks.asp)
 - Add Login Authentication to React Applications
   - [Mern Auth](https://github.com/iamshaunjp/MERN-Auth-Tutorial/tree/lesson-17) 
   - [How To Add Login Authentication to React Applications](https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications)
